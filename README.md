@@ -15,6 +15,12 @@ Method: Topic modelling, an unsupervised machine learning algorithm, used to unc
 
 The method automatically develops “topics” from the text.
 
+##Results
+
+92% of the incidents were classified into 20 topics, 8% of the incidents could not be classified.
+The 20 topics fit into 2 main categories:
+1. Workers injured on the job, i.e. worker falling from structure, cuts to body, heart attack, etc. The titles of all of these topics begin with “worker”.
+2. Building related incidents – Partial building collapse, vehicle hitting building, falling debris, etc.
 
 
 
