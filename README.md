@@ -33,16 +33,19 @@ Topic modelling is good at finding themes in text, but has issues with accuracy:
 
 2. Topics can be ambiguous
 
-Accuracy Improvement: Top words created by the algorithm for each topic were used as key words in an algorithm I developed to recode the text
-Algorithm developed in python.
-Key words were grouped and used conditionally to code the text according to the key words in the topic.
-Increased accuracy.
+Accuracy Improvement: 
 
-When text was recoded, tested the quality of algorithm by drawing sample and checking accuracy.
+1. Top words created by the algorithm for each topic were used as key words in an algorithm I developed to recode the text.
 
-When error found, tweaked the algorithm to improve accuracy.
+2. Algorithm developed in python.
 
-Implemented automatic spell corrector on misspelled words, improved accuracy by about 10%
+3. Key words were grouped and used conditionally to code the text according to the key words in the topic.
+
+4. Increased accuracy: when text was recoded, tested the quality of algorithm by drawing sample and checking accuracy.
+
+5. When error found, tweaked the algorithm to improve accuracy.
+
+6. Implemented automatic spell corrector on misspelled words, improved accuracy by about 10%
 
 
 
