@@ -15,6 +15,10 @@ Method: Topic modelling, an unsupervised machine learning algorithm, used to unc
 
 The method automatically develops “topics” from the text.
 
+##Software
+
+Python, R, Tableau
+
 
 ##Quality Control
 
