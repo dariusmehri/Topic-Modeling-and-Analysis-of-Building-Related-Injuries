@@ -1,6 +1,5 @@
-# Topic-Modelling-of-Building-Related-Injuries
 
-A time-series analysis of the main themes related to building injuries.
+#A time-series analysis of the main themes related to building injuries.
 
 
 ##Data and Methods
