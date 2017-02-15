@@ -52,7 +52,9 @@ The 20 topics fit into 2 main categories:
 
 2. Building related incidents – Partial building collapse, vehicle hitting building, falling debris, etc.
 
-Heat map of topics created in Tableau:
+Heat map of the count of topics by year created in Tableau:
+
+
 
 ![heat map of topics w title 2007 - 2016](https://cloud.githubusercontent.com/assets/11237613/22706291/ae125bfe-ed3c-11e6-8072-7dc9953d8401.png)
 
